@@ -38,3 +38,7 @@
   letter-spacing: 1.3px;
   text-transform: uppercase;
 }
+
+::placeholder {
+  color: white;
+}
